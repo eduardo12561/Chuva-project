@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Roboto:ital,wght@0,300;1,300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+section {
+    background: #FDF1EB;
+    width: 87%;
+    float: right;
+}
+
+.top-content{
+    font-family: 'Roboto', sans-serif;
+    color: #725C5C;
+    float: left;
+    padding-left: 2%;
+}
+
+.min-icon {
+    width: 12.5%;
+    border-radius: 25px;
+    float: right;
+    padding-top: -25px;
+}
+
+.content {
+    width: 20%;
+    float: right;
+}
+
+.first-p {
+    padding-top: 5px;
+    width: 60%;
+    float: right;
+}
+.content p, h1 {
+    font-family: 'Quicksand', sans-serif;
+    size: 14px;
+    color: #333333;
+}
