@@ -28,7 +28,10 @@ article {
 }
 
 .resumo {
+    color: #4E4E4E;
     border: 1px solid #69676762;
+    width: 97%;
+    padding: 10px;
 }
 
 .resumo-article h2 {
@@ -42,3 +45,4 @@ article {
 .color {
     color: #ED7839;
 }
+
