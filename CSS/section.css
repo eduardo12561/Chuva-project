@@ -20,24 +20,55 @@ section {
     padding-left: 2%;
 }
 
-.min-icon {
-    width: 12.5%;
+.align {
+    padding-top: 20px;
+    padding-right: 70px;
+}
+
+.min{
+    width: 2.5%;
     border-radius: 25px;
     float: right;
-    padding-top: -25px;
+    
+}
+
+.notificaiton {
+    align-items: center;
+    text-align: center;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    background-color: #F85959;
+    border-radius: 10px;
+    width: 18px;
+    float: right;
+}
+
+.notification-right {
+    display: inline-block;
+    float: right;
+    position: absolute;
+    padding-left: 855px;
 }
 
 .content {
+    margin-bottom: 5px;
+    padding-left: 10px;
     width: 20%;
     float: right;
 }
 
 .first-p {
-    padding-top: 5px;
-    width: 60%;
+    padding-top: 4px;
+    width: 30%;
     float: right;
 }
-.content p, h1 {
+
+.email {
+    padding-top: 20px;
+    padding-left: 100px;
+}
+
+.content p {
     font-family: 'Quicksand', sans-serif;
     size: 14px;
     color: #333333;
