@@ -6,10 +6,11 @@ article {
     width: 85%;
     float: right;
 }
+
 .mid-content {
     margin-top: 20px;
     width: 85%;
-   
+
 }
 
 .img-content {
@@ -38,11 +39,12 @@ article {
     padding-left: 110px;
 }
 
-.img-content, .inside-name {
+.img-content,
+.inside-name {
     padding-bottom: -250px;
 }
 
-.mid-content > h2 {
+.mid-content>h2 {
     color: #ED7839;
 }
 
@@ -55,7 +57,7 @@ article {
     height: 409px;
     background-image: url(../assets/vídeo\ overlay.png);
     position: absolute;
-    border-radius:5px;
+    border-radius: 5px;
 }
 
 .face-img {
@@ -65,7 +67,7 @@ article {
     width: 90px;
     height: 90px;
     background-size: cover;
-    border-radius:50px;
+    border-radius: 50px;
 }
 
 .name,
@@ -102,11 +104,10 @@ article {
     padding-top: 2500px;
 }
 
-.resumo > p {
+.resumo>p {
     font-family: 'Quicksand', sans-serif;
 }
 
 .color {
     color: #ED7839;
 }
-

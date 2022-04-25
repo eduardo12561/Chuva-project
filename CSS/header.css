@@ -17,7 +17,7 @@
     left: 0;
     width: 250px;
     height: 100%;
-    -webkit-box-shadow: 10px 0px 23px -5px rgba(0,0,0,0.10);
+    -webkit-box-shadow: 10px 0px 23px -5px rgba(0, 0, 0, 0.10);
 }
 
 .sidebar h1 {
@@ -35,7 +35,7 @@
 
 .nav__list .nav__item {
     cursor: pointer;
-    font-family: 'Quicksand',sans-serif;
+    font-family: 'Quicksand', sans-serif;
     text-decoration: none;
     list-style: none;
     display: block;

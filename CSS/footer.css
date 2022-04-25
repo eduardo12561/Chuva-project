@@ -55,7 +55,7 @@ footer {
     padding: 5px;
 }
 
-.discussion-content > h2 {
+.discussion-content>h2 {
     color: #ED7839;
     font-family: 'Quicksand', sans-serif;
     font-size: 16px;
@@ -63,14 +63,14 @@ footer {
     padding: 5px;
 }
 
-.discussion-content > h3 {
+.discussion-content>h3 {
     font-family: 'Quicksand', sans-serif;
     font-size: 15px;
     line-height: 15px;
     padding: 5px;
 }
 
-.discussion-content > p {
+.discussion-content>p {
     font-family: 'Quicksand', sans-serif;
     font-size: 15px;
     line-height: 15px;
@@ -86,6 +86,6 @@ footer {
     padding-top: 10px;
     margin-top: 20px;
     margin-left: 0.8%;
-    -webkit-box-shadow: 10px 0px 23px -5px rgba(0,0,0,0.10);
+    -webkit-box-shadow: 10px 0px 23px -5px rgba(0, 0, 0, 0.10);
     border-radius: 3px;
 }
