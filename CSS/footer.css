@@ -19,6 +19,7 @@ footer {
 .bottom-content {
     border: 1px solid #69676762;
     width: 98.3%;
+    border-radius: 3px;
 }
 
 .share-ideas {
@@ -39,10 +40,14 @@ footer {
 .btn-topic {
     background: linear-gradient(180deg, #FFB354 0%, #EE7A3A 100%);
     font-family: 'Quicksand', sans-serif;
+    font-size: 15px;
     color: white;
     width: 133px;
-    height: 32px;
+    height: 40px;
     border: none;
+    margin-top: 15px;
+    margin-left: 43.5%;
+    border: 1px solid #6967671c;
 }
 
 .fa-plus {
@@ -55,13 +60,23 @@ footer {
     font-family: 'Quicksand', sans-serif;
     font-size: 16px;
     line-height: 20px;
+    padding: 5px;
 }
 
 .discussion-content > h3 {
     font-family: 'Quicksand', sans-serif;
-    font-size: 12px;
+    font-size: 15px;
     line-height: 15px;
+    padding: 5px;
 }
+
+.discussion-content > p {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15px;
+    line-height: 15px;
+    padding: 5px;
+}
+
 
 .discussion-content {
     padding-top: 24px;
@@ -72,4 +87,5 @@ footer {
     margin-top: 20px;
     margin-left: 0.8%;
     -webkit-box-shadow: 10px 0px 23px -5px rgba(0,0,0,0.10);
+    border-radius: 3px;
 }
