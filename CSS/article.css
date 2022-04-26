@@ -20,11 +20,11 @@ article {
 
 .inside-content {
     color: white;
-    padding-top: 25px;
+    line-height: 35px;
+    padding-top: 50px;
     padding-left: 25px;
     font-family: 'Roboto', sans-serif;
-    font-size: 24px;
-    font-weight: black;
+    font-size: 30px;
 }
 
 .inside-image {
@@ -39,9 +39,8 @@ article {
     padding-left: 110px;
 }
 
-.img-content,
-.inside-name {
-    padding-bottom: -250px;
+.inside-content {
+    padding-left: 50px;
 }
 
 .mid-content>h2 {
@@ -49,12 +48,12 @@ article {
 }
 
 .video-overlay {
-    width: 45%;
+    width: 65%;
 }
 
 .figure-overlay {
-    width: 729px;
-    height: 409px;
+    width: 1051px;
+    height: 590px;
     background-image: url(../assets/vídeo\ overlay.png);
     position: absolute;
     border-radius: 5px;
@@ -64,8 +63,8 @@ article {
     position: absolute;
     background-image: url(../assets/face.png);
     border: 1px solid #ED7839;
-    width: 90px;
-    height: 90px;
+    width: 95px;
+    height: 95px;
     background-size: cover;
     border-radius: 50px;
 }
@@ -77,13 +76,14 @@ article {
     padding-left: 110px;
     padding-top: 10px;
     font-weight: 900;
-    font-size: 20px;
+    font-size: 35px;
+    
 }
 
 
 .center {
-    padding-top: 150px;
-    padding-left: 25px;
+    padding-top: 250px;
+    padding-left: 50px;
 }
 
 .resumo-article {
