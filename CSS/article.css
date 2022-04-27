@@ -18,6 +18,53 @@ article {
     padding-bottom: 20px;
 }
 
+.article-aside {
+    float: right;
+    padding-right: 60px;
+}
+
+.aside-content {
+    padding-bottom: 37px;
+    border: 1px solid #6967671a;
+    padding-right: 150px;
+    font-size: 15px;
+    color: black;
+    font-family: 'Quicksand', sans-serif;
+    width: 13rem;
+    margin-right: 55px;
+}
+
+.first-content>h2 {
+    background-color: #FDF1EB;
+    width: 163.5%;
+    padding: 9px;
+    font-size: 30px;
+}
+
+.first-content>p {
+    width: 300px;
+    padding: 5px;
+    padding-left: 5px;
+}
+
+
+.second-content {
+    padding-bottom: 15px;
+}
+
+.second-content>p, h3 {
+    padding: 5.5px;
+}
+
+.third-content {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.third-content>p{
+    padding: 5px;
+    padding-left: 5px;
+}
+
 .inside-content {
     color: white;
     line-height: 35px;
@@ -25,6 +72,7 @@ article {
     padding-left: 25px;
     font-family: 'Roboto', sans-serif;
     font-size: 30px;
+    padding-left: 50px;
 }
 
 .inside-image {
@@ -39,13 +87,11 @@ article {
     padding-left: 110px;
 }
 
-.inside-content {
-    padding-left: 50px;
-}
 
 .mid-content>h2 {
     color: #ED7839;
 }
+
 
 .video-overlay {
     width: 65%;
