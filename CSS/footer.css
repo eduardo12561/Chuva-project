@@ -116,13 +116,22 @@ footer {
     padding: 2px;
 }
 
+.footer-icons {
+    margin-right: 70px;
+    text-align: center;
+    align-items: center;
+}
+
+.imgs-footer {
+    margin: 30px;
+}
+
 .imgs {
-    padding-top: 6px;
+    padding-top: 5.5px;
 }
 
 .footer-p {
     display: inline-block;
-    color: #757575;
     padding-top: 2px;
     font-family: 'Quicksand', sans-serif;
     padding: 5px;
